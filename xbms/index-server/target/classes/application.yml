@@ -1,3 +1,0 @@
-﻿spring:
-  profiles:
-    active: test
