@@ -1,0 +1,2269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8f24928-4447-40d6-be66-2a59bc2c1a96" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="WxController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/WxController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="859">
+              <caret line="2809" column="31" lean-forward="true" selection-start-line="2809" selection-start-column="31" selection-end-line="2809" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#70141#70157#0" expanded="true" />
+                <element signature="e#72431#72447#0" expanded="true" />
+                <element signature="e#74591#74607#0" expanded="true" />
+                <element signature="e#76818#76834#0" expanded="true" />
+                <element signature="e#100724#100748#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserIsMembership.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/model/UserIsMembership.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="58" column="28" lean-forward="false" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+              <folding>
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#1107#1108#0" expanded="true" />
+                <element signature="e#1147#1148#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TUserinfoServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/TUserinfoServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="28" column="51" lean-forward="false" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="51" />
+              <folding>
+                <element signature="e#724#725#0" expanded="true" />
+                <element signature="e#791#792#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TOrderService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/TOrderService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="22" column="62" lean-forward="false" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TOrderServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/TOrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="48" column="51" lean-forward="false" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TOrderMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/mapper/TOrderMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderHistory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/model/wx/OrderHistory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="e#1765#1766#0" expanded="true" />
+                <element signature="e#1792#1793#0" expanded="true" />
+                <element signature="e#1832#1833#0" expanded="true" />
+                <element signature="e#1864#1865#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TOrderMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TOrderMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="17" column="62" lean-forward="false" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+              <folding>
+                <marker date="1573973228441" expanded="true" signature="2058:2116" ph="select from t_order" />
+                <marker date="1573973228441" expanded="true" signature="2058:2164" ph="select from t_order" />
+                <marker date="1573973228441" expanded="true" signature="2273:2373" ph="select from t_order" />
+                <marker date="1573973228441" expanded="true" signature="2494:2709" ph="select from t_order" />
+                <marker date="1573973228441" expanded="true" signature="2494:2718" ph="SELECT a.ope... t_order" />
+                <marker date="1573973228441" expanded="true" signature="2836:3134" ph="SELECT a.ope... t_order" />
+                <marker date="1573973228441" expanded="true" signature="3221:3281" ph="delete from " />
+                <marker date="1573973228441" expanded="true" signature="3360:3812" ph="insert into wx.t_order... " />
+                <marker date="1573973228441" expanded="true" signature="7211:8127" ph="update wx.t_... " />
+                <marker date="1573973228441" expanded="true" signature="8218:8684" ph="update wx.t_... " />
+                <marker date="1573973228441" expanded="true" signature="8228:8684" ph="update t_ord... " />
+                <marker date="1573973228441" expanded="true" signature="8775:8844" ph="update wx.t_... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TUserinfoMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TUserinfoMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1103">
+              <caret line="65" column="4" lean-forward="false" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
+              <folding>
+                <marker date="1573792386411" expanded="true" signature="2760:2887" ph="select from t_userinfo" />
+                <marker date="1573792386411" expanded="true" signature="3012:3149" ph="select from t_userinfo" />
+                <marker date="1573792386411" expanded="true" signature="3269:3379" ph="select from t_userinfo" />
+                <marker date="1573792386411" expanded="true" signature="3502:3608" ph="select from t_userinfo" />
+                <marker date="1573792386411" expanded="true" signature="3730:3840" ph="select from t_userinfo" />
+                <marker date="1573792386411" expanded="true" signature="3954:4445" ph="select from t_userinfo" />
+                <marker date="1573792386411" expanded="true" signature="3954:4452" ph="SELECT a.* F... t_userinfo" />
+                <marker date="1573792386411" expanded="true" signature="4576:4774" ph="SELECT FROM t_userinfo" />
+                <marker date="1573792386411" expanded="true" signature="4576:4930" ph="SELECT FROM " />
+                <marker date="1573792386411" expanded="true" signature="4704:4772" ph="SELECT id FR... t_userinfo" />
+                <marker date="1573792386411" expanded="true" signature="4789:4930" ph="SELECT FROM t_userinfo" />
+                <marker date="1573792386411" expanded="true" signature="5046:5201" ph="SELECT FROM t_userinfo" />
+                <marker date="1573792386411" expanded="true" signature="5330:5480" ph="SELECT FROM t_userinfo" />
+                <marker date="1573792386411" expanded="true" signature="5571:5634" ph="delete from " />
+                <marker date="1573792386411" expanded="true" signature="5718:6609" ph="insert into wx.t_userinfo... " />
+                <marker date="1573792386411" expanded="true" signature="11238:13345" ph="update wx.t_... " />
+                <marker date="1573792386411" expanded="true" signature="13448:13820" ph="UPDATE wx.t_... " />
+                <marker date="1573792386411" expanded="true" signature="13915:13987" ph="UPDATE wx.t_... " />
+                <marker date="1573792386411" expanded="true" signature="14083:14174" ph="UPDATE wx.t_... " />
+                <marker date="1573792386411" expanded="true" signature="14275:14433" ph="UPDATE wx.t_... " />
+                <marker date="1573792386411" expanded="true" signature="14534:14692" ph="UPDATE wx.t_... " />
+                <marker date="1573792386411" expanded="true" signature="14794:15003" ph="UPDATE wx.t_... " />
+                <marker date="1573792386411" expanded="true" signature="15105:15199" ph="UPDATE wx.t_... " />
+                <marker date="1573792386411" expanded="true" signature="15302:15413" ph="UPDATE wx.t_... " />
+                <marker date="1573792386411" expanded="true" signature="15508:15579" ph="UPDATE wx.t_... " />
+                <marker date="1573792386411" expanded="true" signature="15675:15766" ph="UPDATE wx.t_... " />
+                <marker date="1573792386411" expanded="true" signature="15874:15958" ph="UPDATE wx.t_... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>orgNumAndStatusQry</find>
+      <find>添加</find>
+      <find>/mnt/tm/recordings</find>
+      <find>ftpPath_local</find>
+      <find>wxUserin</find>
+      <find>ftpPathLocal</find>
+      <find>查询</find>
+      <find>开通会员</find>
+      <find>组织</find>
+      <find>wxUser</find>
+      <find>@Scheduled</find>
+      <find>@EnableScheduling</find>
+      <find>@com</find>
+      <find>支付</find>
+      <find>生成</find>
+      <find>inser</find>
+      <find>wxUseri</find>
+      <find>insert</find>
+      <find>orgNum</find>
+      <find>getreport</find>
+      <find>association</find>
+      <find>BaseResultMapStatisticeForIntention</find>
+      <find>cust</find>
+      <find>ResultMapWithBLOBs</find>
+      <find>KnowledgeQuestionDetailResult</find>
+      <find>answer</find>
+      <find>selectOrderHistoryByOpenid</find>
+      <find>查询会员</find>
+      <find>isAgent</find>
+      <find>是否会员</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>generateAccessToken</replace>
+      <replace>pl.model.wx.TBook</replace>
+      <replace>wx.t_content</replace>
+      <replace>business_desc</replace>
+      <replace>wx.t_voice</replace>
+      <replace>.pl.mapper.</replace>
+      <replace>TUserVoice</replace>
+      <replace>wx.t_user_voice</replace>
+      <replace>.pl.model.wx.</replace>
+      <replace>wx.t_set</replace>
+      <replace>labelVoList</replace>
+      <replace>wx.t_label</replace>
+      <replace>com.pl.model.wx.TMeal</replace>
+      <replace>wx.t_meal</replace>
+      <replace>wx.t_mall</replace>
+      <replace>wx.t_mechanism</replace>
+      <replace>openid,jdbcType=VARCHAR</replace>
+      <replace>com.pl.model.wx.TOrder</replace>
+      <replace>wx.t_order</replace>
+      <replace>com.pl.model.wx.TQctivationcode</replace>
+      <replace>wx.t_qctivationcode</replace>
+      <replace>com.pl.model.wx.TSuggestion</replace>
+      <replace>wx.t_suggestion</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Lei Work\projects\github\index-server\src\main\java\com\pl\indexserver\web</dir>
+      <dir>C:\Lei Work\projects\github\index-server</dir>
+      <dir>D:\Lei Work\projects\github\index-server</dir>
+      <dir>D:\Lei Work\projects\github\index-server\src\main\java\com\pl\indexserver</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/TMechanismService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/TMechanismMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/mapper/TMechanismMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/TMealService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/TMealServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/mapper/TMealMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/TMealMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/model/wx/UserBaseResp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/model/wx/TQctivationcode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/TQctivationcodeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/mapper/TQctivationcodeMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/TQctivationcodeService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/TQctivationcodeMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/model/wx/TSuggestion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/TSuggestionService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/TSuggestionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/mapper/TSuggestionMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/TSuggestionMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/KnowledgeAnswerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/SpeechcraftServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/ACommonCraftServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/TMechanismServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/FileTransferServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-prod.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/model/wx/IsAgentResp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/TMallService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/TMallServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/mapper/TMallMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/TMallMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/WxServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/model/wx/TUserinfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/TUserinfoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/TUserinfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/mapper/TUserinfoMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/untils/QuartZXbms.java" />
+        <option value="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.14.RELEASE/spring-webmvc-4.3.14.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/InterceptorRegistry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/config/MembershipHandlerInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/config/MemberAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/untils/TestEWM.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/config/MemberHandlerInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/config/MyWebConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/TUserinfoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/model/wx/OrderHistoryResp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/TOrderService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/TOrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/mapper/TOrderMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/model/wx/OrderHistory.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/TOrderMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/model/UserIsMembership.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/WxController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/soft/apache-maven-3.5.4" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="index-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="index-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1608" />
+    <option name="y" value="165" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="index-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="index-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="index-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="index-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="index-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="index-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="index-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="index-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="index-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="index-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="index-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="index-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="index-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="index-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="indexserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="index-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="index-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="indexserver" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="index-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="index-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="index-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="index-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20895523" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Lei Work\projects\github\index-server\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Lei Work\projects\github\index-server\src\main\java\com\pl\indexserver\untils" />
+      <recent name="D:\Lei Work\projects\github\index-server\src\main\resources\mapper" />
+      <recent name="D:\Lei Work\projects\github\index-server\src\main\java\com\pl\mapper" />
+      <recent name="D:\Lei Work\projects\github\index-server\src\main\java\com\pl\model\messagetype" />
+      <recent name="D:\Lei Work\projects\github\index-server\src\main\java\com\pl\indexserver\web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pl.model.wx" />
+      <recent name="com.pl.indexserver.untils" />
+      <recent name="com.pl.indexserver.untils.jiguang" />
+      <recent name="com.pl.model" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pl.indexserver.service" />
+      <recent name="com.pl.model.wx" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.IndexServerApplication">
+    <configuration name="HttpUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.pl.indexserver.untils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.pl.indexserver.untils.HttpUtil" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="index-server" />
+      <envs />
+    </configuration>
+    <configuration name="IndexServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pl.indexserver.IndexServerApplication" />
+      <module name="index-server" />
+      <envs />
+    </configuration>
+    <configuration name="QuartZXbms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.pl.indexserver.untils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.pl.indexserver.untils.QuartZXbms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="index-server" />
+      <envs />
+    </configuration>
+    <configuration name="RandomUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.pl.indexserver.untils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.pl.indexserver.untils.RandomUtils" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="index-server" />
+      <envs />
+    </configuration>
+    <configuration name="WxController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.pl.indexserver.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.pl.indexserver.web.WxController" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="index-server" />
+      <envs />
+    </configuration>
+    <configuration name="WxServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.pl.indexserver.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.pl.indexserver.service.impl.WxServiceImpl" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="index-server" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.IndexServerApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Application.WxController" />
+      <item index="2" class="java.lang.String" itemvalue="Application.HttpUtil" />
+      <item index="3" class="java.lang.String" itemvalue="Application.WxServiceImpl" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RandomUtils" />
+      <item index="5" class="java.lang.String" itemvalue="Application.QuartZXbms" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.WxController" />
+        <item index="1" class="java.lang.String" itemvalue="Application.QuartZXbms" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RandomUtils" />
+        <item index="3" class="java.lang.String" itemvalue="Application.WxServiceImpl" />
+        <item index="4" class="java.lang.String" itemvalue="Application.HttpUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8f24928-4447-40d6-be66-2a59bc2c1a96" name="Default" comment="" />
+      <created>1557741395347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557741395347</updated>
+      <workItem from="1557741400503" duration="1874000" />
+      <workItem from="1557801382185" duration="97133000" />
+      <workItem from="1558316584308" duration="17241000" />
+      <workItem from="1558445903113" duration="4480000" />
+      <workItem from="1558491413091" duration="19473000" />
+      <workItem from="1558679406454" duration="51170000" />
+      <workItem from="1560501837983" duration="29041000" />
+      <workItem from="1561343720175" duration="63857000" />
+      <workItem from="1562722987821" duration="69358000" />
+      <workItem from="1563334166127" duration="99683000" />
+      <workItem from="1564209050500" duration="34004000" />
+      <workItem from="1564468849868" duration="24029000" />
+      <workItem from="1565159351467" duration="17277000" />
+      <workItem from="1565838365920" duration="24844000" />
+      <workItem from="1567148547370" duration="1270000" />
+      <workItem from="1567404344565" duration="5863000" />
+      <workItem from="1567496263926" duration="1968000" />
+      <workItem from="1567589849855" duration="1864000" />
+      <workItem from="1568603211336" duration="2471000" />
+      <workItem from="1568615882554" duration="124392000" />
+      <workItem from="1569289123857" duration="47298000" />
+      <workItem from="1569483546200" duration="85511000" />
+      <workItem from="1570626372290" duration="54997000" />
+      <workItem from="1570804352152" duration="52082000" />
+      <workItem from="1571190346139" duration="22968000" />
+      <workItem from="1571388565058" duration="69853000" />
+      <workItem from="1572249666126" duration="98308000" />
+      <workItem from="1573005351290" duration="192363000" />
+      <workItem from="1573718904304" duration="50158000" />
+    </task>
+    <task id="LOCAL-00019" summary="智库复制ftp的方式改为直接拷贝（另起一个线程）">
+      <created>1566898290975</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1566898290975</updated>
+    </task>
+    <task id="LOCAL-00020" summary="增加微信userinfo类">
+      <created>1568604402929</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1568604402929</updated>
+    </task>
+    <task id="LOCAL-00021" summary="发送，验证短信，好友增删改查（微信公众号）">
+      <created>1568880943744</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1568880943744</updated>
+    </task>
+    <task id="LOCAL-00022" summary="发送，验证短信，好友增删改查（微信公众号）注释">
+      <created>1568882005967</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1568882005967</updated>
+    </task>
+    <task id="LOCAL-00023" summary="群组curd">
+      <created>1568951107446</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1568951107446</updated>
+    </task>
+    <task id="LOCAL-00024" summary="群组curd 1.0">
+      <created>1568951805736</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1568951805736</updated>
+    </task>
+    <task id="LOCAL-00025" summary="群组查询里面查询好友详情">
+      <created>1569050033497</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1569050033497</updated>
+    </task>
+    <task id="LOCAL-00026" summary="话术商城查询，群组，好友设置">
+      <created>1569549084454</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1569549084454</updated>
+    </task>
+    <task id="LOCAL-00027" summary="话术设置页面回显speechcraftinfo">
+      <created>1569827574448</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1569827574448</updated>
+    </task>
+    <task id="LOCAL-00028" summary="haode">
+      <created>1570623488661</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1570623488661</updated>
+    </task>
+    <task id="LOCAL-00029" summary="查询我的状态（情景模式）">
+      <created>1570687628558</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1570687628559</updated>
+    </task>
+    <task id="LOCAL-00030" summary="最新的版本">
+      <created>1570770073227</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1570770073227</updated>
+    </task>
+    <task id="LOCAL-00031" summary="话术商城首页优化1.0">
+      <created>1570782255749</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1570782255749</updated>
+    </task>
+    <task id="LOCAL-00032" summary="增加话术自定义开场白">
+      <created>1570852944734</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1570852944734</updated>
+    </task>
+    <task id="LOCAL-00033" summary="开场白加tts">
+      <created>1570871447679</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1570871447679</updated>
+    </task>
+    <task id="LOCAL-00034" summary="删掉通话时间单位s">
+      <created>1570874829342</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1570874829342</updated>
+    </task>
+    <task id="LOCAL-00035" summary="判断接听清单是否为null">
+      <created>1570875388900</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1570875388900</updated>
+    </task>
+    <task id="LOCAL-00036" summary="优化 查看我的设置 接口">
+      <created>1571113549474</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1571113549474</updated>
+    </task>
+    <task id="LOCAL-00037" summary="优化 查看我的设置 接口2.0">
+      <created>1571113783378</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1571113783378</updated>
+    </task>
+    <task id="LOCAL-00038" summary="查询用户设置记录和删除">
+      <created>1571566472680</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1571566472680</updated>
+    </task>
+    <task id="LOCAL-00039" summary="優化小兵秘書自定義開場白tts轉寫">
+      <created>1571625068968</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1571625068968</updated>
+    </task>
+    <task id="LOCAL-00040" summary="代码规范">
+      <created>1571732595037</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1571732595037</updated>
+    </task>
+    <task id="LOCAL-00041" summary="23837362--&gt;18948174400">
+      <created>1572229823307</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1572229823307</updated>
+    </task>
+    <task id="LOCAL-00042" summary="整理微信静态常数类">
+      <created>1572319667573</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1572319667573</updated>
+    </task>
+    <task id="LOCAL-00043" summary="repleceAll--&gt;replaceFirst">
+      <created>1572409593961</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1572409593961</updated>
+    </task>
+    <task id="LOCAL-00044" summary="推荐人邀请">
+      <created>1572580300395</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1572580300395</updated>
+    </task>
+    <task id="LOCAL-00045" summary="套餐查询，接听清单加摘要">
+      <created>1572668150136</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1572668150136</updated>
+    </task>
+    <task id="LOCAL-00046" summary="自动回复图片">
+      <created>1572682255016</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1572682255016</updated>
+    </task>
+    <task id="LOCAL-00047" summary="修改验证接口bug 缺，">
+      <created>1572685425410</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1572685425410</updated>
+    </task>
+    <task id="LOCAL-00048" summary="注释TTS">
+      <created>1573017574666</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1573017574666</updated>
+    </task>
+    <task id="LOCAL-00049" summary="自定义开场白接入ssTTS">
+      <created>1573052401110</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1573052401111</updated>
+    </task>
+    <task id="LOCAL-00050" summary="切换我的声音（小兵秘书）">
+      <created>1573118971790</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1573118971791</updated>
+    </task>
+    <task id="LOCAL-00051" summary="查询我选中的声音（小兵秘书）">
+      <created>1573181181375</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1573181181375</updated>
+    </task>
+    <task id="LOCAL-00052" summary="更改通过code获得用户基本信息 并存到db">
+      <created>1573208009794</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1573208009795</updated>
+    </task>
+    <task id="LOCAL-00053" summary="支付回调接口待优化，查询是否会员">
+      <created>1573434450975</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1573434450975</updated>
+    </task>
+    <task id="LOCAL-00054" summary="申请代理">
+      <created>1573452656792</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1573452656792</updated>
+    </task>
+    <task id="LOCAL-00055" summary="查询，插入会员信息">
+      <created>1573457321797</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1573457321797</updated>
+    </task>
+    <task id="LOCAL-00056" summary="code连接插入用户信息">
+      <created>1573464383981</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1573464383981</updated>
+    </task>
+    <task id="LOCAL-00057" summary="回调接口 返回激活码信息">
+      <created>1573475207530</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1573475207530</updated>
+    </task>
+    <task id="LOCAL-00058" summary="激活码添加订单号">
+      <created>1573523837080</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1573523837080</updated>
+    </task>
+    <task id="LOCAL-00059" summary="小兵秘书改进建议添加">
+      <created>1573527845294</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1573527845294</updated>
+    </task>
+    <task id="LOCAL-00060" summary="删除.wav 前面的时间戳">
+      <created>1573528213635</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1573528213635</updated>
+    </task>
+    <task id="LOCAL-00061" summary="为新被邀请的用户增加基础数据到t_mall">
+      <created>1573614495258</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1573614495258</updated>
+    </task>
+    <task id="LOCAL-00062" summary="为新注册的用户增加基础数据到t_mall">
+      <created>1573615283169</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1573615283169</updated>
+    </task>
+    <task id="LOCAL-00063" summary="加个定时器24点定时清除过期的会员">
+      <created>1573700652536</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1573700652537</updated>
+    </task>
+    <task id="LOCAL-00064" summary="邀请好友赚钱显示 二维码">
+      <created>1573802511587</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1573802511587</updated>
+    </task>
+    <task id="LOCAL-00065" summary="增加 查询会员过期时间，查询用户的历史订单">
+      <created>1573973586961</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1573973586961</updated>
+    </task>
+    <task id="LOCAL-00066" summary="修复 查询会员过期时间bug">
+      <created>1574041243036</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1574041243036</updated>
+    </task>
+    <task id="LOCAL-00067" summary="查会员过期时间 放到 查是否会员接口">
+      <created>1574057526961</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1574057526961</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1364830000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1608" y="52" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3625" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13212435" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8402778" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54444444" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.78194445" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2726684" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32966322" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25694445" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13212435" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32966322" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25694445" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3625" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8402778" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.54444444" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.78194445" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2726684" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="repleceAll--&gt;replaceFirst" />
+    <MESSAGE value="推荐人邀请" />
+    <MESSAGE value="套餐查询，接听清单加摘要" />
+    <MESSAGE value="自动回复图片" />
+    <MESSAGE value="修改验证接口bug 缺，" />
+    <MESSAGE value="注释TTS" />
+    <MESSAGE value="自定义开场白接入ssTTS" />
+    <MESSAGE value="切换我的声音（小兵秘书）" />
+    <MESSAGE value="查询我选中的声音（小兵秘书）" />
+    <MESSAGE value="更改通过code获得用户基本信息 并存到db" />
+    <MESSAGE value="支付回调接口待优化，查询是否会员" />
+    <MESSAGE value="申请代理" />
+    <MESSAGE value="查询，插入会员信息" />
+    <MESSAGE value="code连接插入用户信息" />
+    <MESSAGE value="回调接口 返回激活码信息" />
+    <MESSAGE value="激活码添加订单号" />
+    <MESSAGE value="小兵秘书改进建议添加" />
+    <MESSAGE value="删除.wav 前面的时间戳" />
+    <MESSAGE value="为新被邀请的用户增加基础数据到t_mall" />
+    <MESSAGE value="为新注册的用户增加基础数据到t_mall" />
+    <MESSAGE value="加个定时器24点定时清除过期的会员" />
+    <MESSAGE value="邀请好友赚钱显示 二维码" />
+    <MESSAGE value="增加 查询会员过期时间，查询用户的历史订单" />
+    <MESSAGE value="修复 查询会员过期时间bug" />
+    <MESSAGE value="查会员过期时间 放到 查是否会员接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="查会员过期时间 放到 查是否会员接口" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/BusinessReportServiceImpl.java</url>
+          <line>240</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/BusinessReportServiceImpl.java</url>
+          <line>319</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/BusinessReportServiceImpl.java</url>
+          <line>337</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/SpeechcraftContorller.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/ResponseModeContorller.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/ResponseModeServiceImpl.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/WorkFlowContorller.java</url>
+          <line>429</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/WorkFlowServiceImpl.java</url>
+          <line>301</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/WorkFlowContorller.java</url>
+          <line>455</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/WorkFlowServiceImpl.java</url>
+          <line>330</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/SpeechcraftServiceImpl.java</url>
+          <line>180</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/untils/FileUtil.java</url>
+          <line>163</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/WxController.java</url>
+          <line>161</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/WxController.java</url>
+          <line>393</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/WxController.java</url>
+          <line>1465</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/WxController.java</url>
+          <line>803</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/TTSServiceImpl.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/WxController.java</url>
+          <line>443</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/WxController.java</url>
+          <line>289</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/WxController.java</url>
+          <line>2565</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/WxController.java</url>
+          <line>1107</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/WxController.java</url>
+          <line>2593</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/WxController.java</url>
+          <line>2914</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pl/mapper/TSetMapper.java</url>
+          <line>36</line>
+          <properties class="com.pl.mapper.TSetMapper" method="selectBusinessVoiceByUserIdOrValue" />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="74" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2919">
+          <caret line="139" column="5" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/config/MyWebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="56" column="35" lean-forward="false" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.14/poi-3.14-sources.jar!/org/apache/poi/util/IOUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="238" column="29" lean-forward="false" selection-start-line="238" selection-start-column="29" selection-end-line="238" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.14.RELEASE/spring-core-4.3.14.RELEASE-sources.jar!/org/springframework/util/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding>
+            <element signature="e#2963#2964#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TMallMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="90" column="4" lean-forward="false" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
+          <folding>
+            <marker date="1573614347890" expanded="true" signature="891:955" ph="select from t_mall" />
+            <marker date="1573614347890" expanded="true" signature="891:1006" ph="select from t_mall" />
+            <marker date="1573614347890" expanded="true" signature="891:1038" ph="select from t_mall" />
+            <marker date="1573614347890" expanded="true" signature="1161:1300" ph="select from t_mall" />
+            <marker date="1573614347890" expanded="true" signature="1422:1575" ph="select from t_mall" />
+            <marker date="1573614347890" expanded="true" signature="1691:1926" ph="select from t_mall" />
+            <marker date="1573614347890" expanded="true" signature="2048:2183" ph="SELECT FROM t_mall" />
+            <marker date="1573614347890" expanded="true" signature="2302:2415" ph="SELECT FROM t_mall" />
+            <marker date="1573614347890" expanded="true" signature="2506:2565" ph="delete from " />
+            <marker date="1573614347890" expanded="true" signature="2651:2746" ph="delete from " />
+            <marker date="1573614347890" expanded="true" signature="2829:3104" ph="insert into wx.t_mall... " />
+            <marker date="1573614347890" expanded="true" signature="3197:3414" ph="INSERT INTO wx.t_mall... " />
+            <marker date="1573614347890" expanded="true" signature="3219:3414" ph="SELECT `id`,... t_mall" />
+            <marker date="1573614347890" expanded="true" signature="6224:6867" ph="update wx.t_... " />
+            <marker date="1573614347890" expanded="true" signature="6961:7236" ph="update wx.t_... " />
+            <marker date="1573614347890" expanded="true" signature="6971:7236" ph="update t_mal... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/TMallServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="62" column="34" lean-forward="false" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="34" />
+          <folding>
+            <element signature="e#1549#1550#0" expanded="false" />
+            <element signature="e#1599#1600#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/OutboundController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="1095" column="14" lean-forward="false" selection-start-line="1095" selection-start-column="14" selection-end-line="1095" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/untils/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="48" column="15" lean-forward="false" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/untils/SmsJg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="210" column="23" lean-forward="false" selection-start-line="210" selection-start-column="23" selection-end-line="210" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/untils/XBMSAccessTokenUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="39" column="15" lean-forward="false" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/WxServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="114" column="15" lean-forward="false" selection-start-line="114" selection-start-column="15" selection-end-line="114" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/untils/QuartZXbms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="31" column="83" lean-forward="false" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/BusinessReportServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="162" column="64" lean-forward="false" selection-start-line="162" selection-start-column="44" selection-end-line="162" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/TDialogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="65" column="49" lean-forward="false" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TDialogMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="150" column="195" lean-forward="false" selection-start-line="150" selection-start-column="186" selection-end-line="150" selection-end-column="195" />
+          <folding>
+            <marker date="1571733374115" expanded="true" signature="5852:5975" ph="select from t_dialog" />
+            <marker date="1571733374115" expanded="true" signature="6100:6216" ph="select from t_dialog_in" />
+            <marker date="1571733374115" expanded="true" signature="6335:6475" ph="select from t_dialog_in" />
+            <marker date="1571733374115" expanded="true" signature="6598:6783" ph="SELECT a.* F... t_dialog_in" />
+            <marker date="1571733374115" expanded="true" signature="6905:7053" ph="SELECT FROM t_dialog" />
+            <marker date="1571733374115" expanded="true" signature="7145:7352" ph="update t_dia... " />
+            <marker date="1571733374115" expanded="true" signature="7444:7622" ph="update t_dia... " />
+            <marker date="1571733374115" expanded="true" signature="7685:7765" ph="update t_dia... " />
+            <marker date="1571733374115" expanded="true" signature="7879:8017" ph="SELECT FROM t_dialog" />
+            <marker date="1571733374115" expanded="true" signature="8135:8565" ph="SELECT id,co... t_dialog" />
+            <marker date="1571733374115" expanded="true" signature="8470:8563" ph="select IFNUL... report_speechcraft_statistics" />
+            <marker date="1571733374115" expanded="true" signature="9555:9791" ph="SELECT DISTI... " />
+            <marker date="1571733374115" expanded="true" signature="9890:10054" ph="SELECT DISTI... " />
+            <marker date="1571733374115" expanded="true" signature="10191:14975" ph="SELECT d.id t_dialog" />
+            <marker date="1571733374115" expanded="true" signature="15160:20301" ph="SELECT d.id t_dialog_in" />
+            <marker date="1571733374115" expanded="true" signature="20481:23816" ph="SELECT d.id t_dialog_in" />
+            <marker date="1571733374115" expanded="true" signature="23898:24005" ph="SELECT telep... t_dialog" />
+            <marker date="1571733374115" expanded="true" signature="24142:24295" ph="SELECT FROM t_dialog" />
+            <marker date="1571733374115" expanded="true" signature="24388:24525" ph="select * FRO... t_dialog" />
+            <marker date="1571733374115" expanded="true" signature="24586:24803" ph="UPDATE t_dia... " />
+            <marker date="1571733374115" expanded="true" signature="24896:26423" ph="update t_dia... " />
+            <marker date="1571733374115" expanded="true" signature="26562:27127" ph="SELECT t.STA... t_dialog" />
+            <marker date="1571733374115" expanded="true" signature="28766:28892" ph="SELECT count... t_dialog" />
+            <marker date="1571733374115" expanded="true" signature="29000:29183" ph="SELECT count... t_dialog" />
+            <marker date="1571733374115" expanded="true" signature="29289:29441" ph="SELECT count... t_dialog" />
+            <marker date="1571733374115" expanded="true" signature="29564:29689" ph="select COALE... t_dialog_" />
+            <marker date="1571733374115" expanded="true" signature="29834:30356" ph="SELECT creat... t_dialog_" />
+            <marker date="1571733374115" expanded="true" signature="30552:30761" ph="SELECT COUNT... t_dialog_" />
+            <marker date="1571733374115" expanded="true" signature="39996:40218" ph="select count... t_dialog" />
+            <marker date="1571733374115" expanded="true" signature="40337:40567" ph="select count... t_dialog" />
+            <marker date="1571733374115" expanded="true" signature="40687:40916" ph="select count... t_dialog" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/model/wx/QryContentResp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="11" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/model/wx/OrderHistoryResp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TCallAgentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="51" lean-forward="false" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+          <folding>
+            <marker date="1562826868520" expanded="true" signature="2786:2934" ph="select id, c... t_call_channel" />
+            <marker date="1562826868520" expanded="true" signature="3045:3293" ph="select from t_call_agent" />
+            <marker date="1562826868520" expanded="true" signature="3406:3513" ph="select from t_call_agent" />
+            <marker date="1562826868520" expanded="true" signature="3621:3757" ph="select from t_call_agent" />
+            <marker date="1562826868520" expanded="true" signature="3875:4025" ph="SELECT a.*, t_dialog_in" />
+            <marker date="1562826868520" expanded="true" signature="4113:4257" ph="SELECT count... " />
+            <marker date="1562826868520" expanded="true" signature="4342:4396" ph="delete from " />
+            <marker date="1562826868520" expanded="true" signature="4488:5009" ph="insert into t_call_agent... " />
+            <marker date="1562826868520" expanded="true" signature="6788:6920" ph="update t_cal... " />
+            <marker date="1562826868520" expanded="true" signature="6993:7091" ph="update t_cal... " />
+            <marker date="1562826868520" expanded="true" signature="7194:8044" ph="update t_cal... " />
+            <marker date="1562826868520" expanded="true" signature="8137:8563" ph="update t_cal... " />
+            <marker date="1562826868520" expanded="true" signature="8626:8907" ph="update t_cal... " />
+            <marker date="1562826868520" expanded="true" signature="9010:9159" ph="select from t_call_agent" />
+            <marker date="1562826868520" expanded="true" signature="9256:9556" ph="select from t_call_agent" />
+            <marker date="1562826868520" expanded="true" signature="9910:10039" ph="select count... t_call_agent" />
+            <marker date="1562826868520" expanded="true" signature="10127:10249" ph="SELECT count... t_call_agent" />
+            <marker date="1562826868520" expanded="true" signature="10337:10481" ph="SELECT id,co... t_call_agent" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/model/wx/TMeal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TMealMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="78" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="10" selection-end-column="78" />
+          <folding>
+            <marker date="1573457704057" expanded="true" signature="957:1062" ph="select from t_meal" />
+            <marker date="1573457704057" expanded="true" signature="1172:1281" ph="select from t_meal" />
+            <marker date="1573457704057" expanded="true" signature="1393:1604" ph="select from t_meal" />
+            <marker date="1573457704057" expanded="true" signature="1393:1611" ph="SELECT a.* F... t_meal" />
+            <marker date="1573457704057" expanded="true" signature="1720:1933" ph="SELECT a.id,... t_meal" />
+            <marker date="1573457704057" expanded="true" signature="2008:2074" ph="select from t_meal" />
+            <marker date="1573457704057" expanded="true" signature="2162:2221" ph="delete from " />
+            <marker date="1573457704057" expanded="true" signature="2299:2441" ph="insert into wx.t_meal... " />
+            <marker date="1573457704057" expanded="true" signature="3183:3429" ph="update wx.t_... " />
+            <marker date="1573457704057" expanded="true" signature="3519:3654" ph="update wx.t_... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ACommonCraftMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1564366474932" expanded="true" signature="1732:1834" ph="select from a_common_craft" />
+            <marker date="1564366474932" expanded="true" signature="1913:1990" ph="delete from " />
+            <marker date="1564366474932" expanded="true" signature="2112:2728" ph="insert into a_common_craft... " />
+            <marker date="1564366474932" expanded="true" signature="5174:6453" ph="update a_com... " />
+            <marker date="1564366474932" expanded="true" signature="6543:7173" ph="update a_com... " />
+            <marker date="1564366474932" expanded="true" signature="7263:7380" ph="SELECT COUNT... a_common_craft" />
+            <marker date="1564366474932" expanded="true" signature="7476:7667" ph="update a_com... " />
+            <marker date="1564366474932" expanded="true" signature="7765:7900" ph="select from a_common_craft" />
+            <marker date="1564366474932" expanded="true" signature="7987:8158" ph="SELECT FROM a_common_craft" />
+            <marker date="1564366474932" expanded="true" signature="8267:8430" ph="SELECT FROM a_common_craft" />
+            <marker date="1564366474932" expanded="true" signature="8548:8711" ph="SELECT FROM a_common_craft" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/AlgorithmKnowledgeQuestionMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1557741485793" expanded="true" signature="2473:2660" ph="select , fro... " />
+            <marker date="1557741485793" expanded="true" signature="2747:2824" ph="delete from " />
+            <marker date="1557741485793" expanded="true" signature="2922:3897" ph="insert into algorithm.knowledge_question... " />
+            <marker date="1557741485793" expanded="true" signature="8435:10947" ph="update algor... " />
+            <marker date="1557741485793" expanded="true" signature="11068:12116" ph="update algor... " />
+            <marker date="1557741485793" expanded="true" signature="12226:13223" ph="update algor... " />
+            <marker date="1557741485793" expanded="true" signature="13434:13700" ph="select , fro... " />
+            <marker date="1557741485793" expanded="true" signature="13786:13946" ph="delete from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/CallTaskMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1562815531116" expanded="true" signature="2240:2344" ph="select from call_task" />
+            <marker date="1562815531116" expanded="true" signature="2424:2525" ph="select from call_task" />
+            <marker date="1562815531116" expanded="true" signature="2610:2668" ph="delete from " />
+            <marker date="1562815531116" expanded="true" signature="2787:3793" ph="insert into call_task... " />
+            <marker date="1562815531116" expanded="true" signature="6594:8596" ph="update call_... " />
+            <marker date="1562815531116" expanded="true" signature="8744:11943" ph="insert into call_task... " />
+            <marker date="1562815531116" expanded="true" signature="11944:12426" ph="UPDATE task_... " />
+            <marker date="1562815531116" expanded="true" signature="12526:13309" ph="update call_... " />
+            <marker date="1562815531116" expanded="true" signature="13400:14183" ph="update call_... " />
+            <marker date="1562815531116" expanded="true" signature="14279:14470" ph="select from call_task" />
+            <marker date="1562815531116" expanded="true" signature="14926:15389" ph="SELECT FROM call_task" />
+            <marker date="1562815531116" expanded="true" signature="15506:15628" ph="select FROM call_task" />
+            <marker date="1562815531116" expanded="true" signature="15679:16391" ph="update call_... " />
+            <marker date="1562815531116" expanded="true" signature="16435:16548" ph="update call_... " />
+            <marker date="1562815531116" expanded="true" signature="16600:16714" ph="update t_cal... " />
+            <marker date="1562815531116" expanded="true" signature="16797:16909" ph="select count... t_dialog" />
+            <marker date="1562815531116" expanded="true" signature="16988:17098" ph="select car_n... tm_customer" />
+            <marker date="1562815531116" expanded="true" signature="17566:18033" ph="select modif... call_task" />
+            <marker date="1562815531116" expanded="true" signature="18122:18235" ph="SELECT from call_task" />
+            <marker date="1562815531116" expanded="true" signature="18327:18429" ph="SELECT from call_task" />
+            <marker date="1562815531116" expanded="true" signature="18532:18986" ph="SELECT b.id,... call_task" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/model/Statistice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/CallTaskStatMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="40" column="74" lean-forward="true" selection-start-line="40" selection-start-column="74" selection-end-line="40" selection-end-column="74" />
+          <folding>
+            <marker date="1557741366287" expanded="true" signature="3049:3168" ph="select from call_task_stat" />
+            <marker date="1557741366287" expanded="true" signature="3255:3318" ph="delete from " />
+            <marker date="1557741366287" expanded="true" signature="3402:4190" ph="insert into call_task_stat... " />
+            <marker date="1557741366287" expanded="true" signature="7882:9879" ph="update call_... " />
+            <marker date="1557741366287" expanded="true" signature="9977:10793" ph="update call_... " />
+            <marker date="1557741366287" expanded="true" signature="12739:13659" ph="SELECT ct.ta... " />
+            <marker date="1557741366287" expanded="true" signature="15188:15475" ph="SELECT SUM(i... call_task_stat" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/WorkflowLinkMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1564973383530" expanded="true" signature="1334:1459" ph="select from workflow_link" />
+            <marker date="1564973383530" expanded="true" signature="1548:1612" ph="delete from " />
+            <marker date="1564973383530" expanded="true" signature="1698:2206" ph="insert into workflow_link... " />
+            <marker date="1564973383530" expanded="true" signature="4708:5989" ph="update workf... " />
+            <marker date="1564973383530" expanded="true" signature="6087:6619" ph="update workf... " />
+            <marker date="1564973383530" expanded="true" signature="6716:6851" ph="SELECT COUNT... workflow_link" />
+            <marker date="1564973383530" expanded="true" signature="6911:6993" ph="delete from " />
+            <marker date="1564973383530" expanded="true" signature="7095:7172" ph="SELECT COUNT... workflow_link" />
+            <marker date="1564973383530" expanded="true" signature="7227:7290" ph="delete from " />
+            <marker date="1564973383530" expanded="true" signature="7389:7528" ph="select from workflow_link" />
+            <marker date="1564973383530" expanded="true" signature="7639:7786" ph="select from workflow_link" />
+            <marker date="1564973383530" expanded="true" signature="7879:8087" ph="SELECT next_... workflow_link" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserOperateRecordMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1557741366363" expanded="true" signature="1332:1446" ph="select from user_operate_record" />
+            <marker date="1557741366363" expanded="true" signature="1585:1933" ph="SELECT uor.i... user_operate_record" />
+            <marker date="1557741366363" expanded="true" signature="2017:2085" ph="delete from " />
+            <marker date="1557741366363" expanded="true" signature="2173:2705" ph="insert into user_operate_record... " />
+            <marker date="1557741366363" expanded="true" signature="4740:5806" ph="update user_... " />
+            <marker date="1557741366363" expanded="true" signature="5906:6450" ph="update user_... " />
+            <marker date="1557741366363" expanded="true" signature="6553:6983" ph="SELECT uor.i... user_operate_record" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UploadFileMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1557741366358" expanded="true" signature="1165:1281" ph="select from upload_file" />
+            <marker date="1557741366358" expanded="true" signature="1368:1428" ph="delete from " />
+            <marker date="1557741366358" expanded="true" signature="1566:1969" ph="insert into upload_file... " />
+            <marker date="1557741366358" expanded="true" signature="4085:5087" ph="update uploa... " />
+            <marker date="1557741366358" expanded="true" signature="5183:5610" ph="update uploa... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/WorkflowNodeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1564386468123" expanded="true" signature="1468:1576" ph="select from workflow_node" />
+            <marker date="1564386468123" expanded="true" signature="1628:1718" ph="delete from " />
+            <marker date="1564386468123" expanded="true" signature="1801:2346" ph="insert into workflow_node... " />
+            <marker date="1564386468123" expanded="true" signature="4543:5714" ph="update workf... " />
+            <marker date="1564386468123" expanded="true" signature="5809:6384" ph="update workf... " />
+            <marker date="1564386468123" expanded="true" signature="6460:6584" ph="select from workflow_node" />
+            <marker date="1564386468123" expanded="true" signature="6633:6692" ph="delete from " />
+            <marker date="1564386468123" expanded="true" signature="6784:6920" ph="select from workflow_node" />
+            <marker date="1564386468123" expanded="true" signature="7015:7149" ph="select from workflow_node" />
+            <marker date="1564386468123" expanded="true" signature="7256:7384" ph="select from workflow_node" />
+            <marker date="1564386468123" expanded="true" signature="7501:7601" ph="SELECT FROM workflow_node" />
+            <marker date="1564386468123" expanded="true" signature="7689:7785" ph="SELECT FROM workflow_node" />
+            <marker date="1564386468123" expanded="true" signature="7882:7982" ph="SELECT FROM workflow_node" />
+            <marker date="1564386468123" expanded="true" signature="8064:8188" ph="SELECT FROM workflow_node" />
+            <marker date="1564386468123" expanded="true" signature="8272:8375" ph="SELECT FROM workflow_node" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TManualMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1557741485828" expanded="true" signature="1042:1111" ph="delete from " />
+            <marker date="1557741485828" expanded="true" signature="1231:1620" ph="insert into t_manual... " />
+            <marker date="1557741485828" expanded="true" signature="3243:3862" ph="update t_man... " />
+            <marker date="1557741485828" expanded="true" signature="4470:4611" ph="select from t_manual" />
+            <marker date="1557741485828" expanded="true" signature="4689:4766" ph="select from t_manual" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TDialogDetailExtMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="43" column="63" lean-forward="false" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="63" />
+          <folding>
+            <marker date="1572663956920" expanded="true" signature="870:1050" ph="select , fro... " />
+            <marker date="1572663956920" expanded="true" signature="1171:1343" ph="select , fro... " />
+            <marker date="1572663956920" expanded="true" signature="1465:1638" ph="select , fro... " />
+            <marker date="1572663956920" expanded="true" signature="1753:1872" ph="select from t_dialog_detail_in" />
+            <marker date="1572663956920" expanded="true" signature="1958:2042" ph="delete from " />
+            <marker date="1572663956920" expanded="true" signature="2129:2340" ph="insert into t_dialog_detail${tablePostfix}... " />
+            <marker date="1572663956920" expanded="true" signature="3209:3533" ph="update t_dia... " />
+            <marker date="1572663956920" expanded="true" signature="3641:3837" ph="update t_dia... " />
+            <marker date="1572663956920" expanded="true" signature="3936:4070" ph="update t_dia... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TBusinessMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1562147455730" expanded="true" signature="1386:1491" ph="select from t_business" />
+            <marker date="1562147455730" expanded="true" signature="1598:1820" ph="select from t_business" />
+            <marker date="1562147455730" expanded="true" signature="1930:2042" ph="select from t_business" />
+            <marker date="1562147455730" expanded="true" signature="2127:2186" ph="delete from " />
+            <marker date="1562147455730" expanded="true" signature="2266:2799" ph="insert into t_business... " />
+            <marker date="1562147455730" expanded="true" signature="4972:6041" ph="update t_bus... " />
+            <marker date="1562147455730" expanded="true" signature="6133:6621" ph="update t_bus... " />
+            <marker date="1562147455730" expanded="true" signature="6711:6834" ph="select from t_business" />
+            <marker date="1562147455730" expanded="true" signature="6993:7478" ph="SELECT tb.id... t_business" />
+            <marker date="1562147455730" expanded="true" signature="7142:7217" ph="SELECT COUNT... speechcraft" />
+            <marker date="1562147455730" expanded="true" signature="7560:7862" ph="SELECT ((SEL... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TBusinessPropertyMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1557741366334" expanded="true" signature="1213:1328" ph="select from t_business_property" />
+            <marker date="1557741366334" expanded="true" signature="1415:1484" ph="delete from " />
+            <marker date="1557741366334" expanded="true" signature="1572:2039" ph="insert into t_business_property... " />
+            <marker date="1557741366334" expanded="true" signature="3818:4726" ph="update t_bus... " />
+            <marker date="1557741366334" expanded="true" signature="4826:5300" ph="update t_bus... " />
+            <marker date="1557741366334" expanded="true" signature="5480:5674" ph="select busin... t_business_property" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/KnowledgeAnswerMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="59" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="59" />
+          <folding>
+            <marker date="1562744916752" expanded="true" signature="2180:2330" ph="select , fro... " />
+            <marker date="1562744916752" expanded="true" signature="2409:2475" ph="delete from " />
+            <marker date="1562744916752" expanded="true" signature="2600:3397" ph="insert into knowledge_answerext... " />
+            <marker date="1562744916752" expanded="true" signature="6339:7937" ph="update knowl... " />
+            <marker date="1562744916752" expanded="true" signature="8039:8845" ph="update knowl... " />
+            <marker date="1562744916752" expanded="true" signature="8938:9660" ph="update knowl... " />
+            <marker date="1562744916752" expanded="true" signature="9792:10021" ph="SELECT id,co... knowledge_answerext" />
+            <marker date="1562744916752" expanded="true" signature="10112:10266" ph="SELECT COUNT... knowledge_answerext" />
+            <marker date="1562744916752" expanded="true" signature="10370:10812" ph="update knowl... " />
+            <marker date="1562744916752" expanded="true" signature="10909:11060" ph="select , fro... " />
+            <marker date="1562744916752" expanded="true" signature="11140:11275" ph="select from knowledge_answerext" />
+            <marker date="1562744916752" expanded="true" signature="11382:11489" ph="select from knowledge_answerext" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/model/KnowledgeQuestionDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="16" column="68" lean-forward="true" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/model/KnowledgeQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-798">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/model/KnowledgeAnswerDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/model/KnowledgeAnswer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/KnowledgeQuestionMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="46" column="66" lean-forward="true" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
+          <folding>
+            <marker date="1558070030350" expanded="true" signature="3953:4130" ph="select , fro... " />
+            <marker date="1558070030350" expanded="true" signature="4264:4477" ph="select , fro... " />
+            <marker date="1558070030350" expanded="true" signature="4565:4632" ph="delete from " />
+            <marker date="1558070030350" expanded="true" signature="4762:5499" ph="insert into knowledge_question... " />
+            <marker date="1558070030350" expanded="true" signature="9534:11657" ph="update knowl... " />
+            <marker date="1558070030350" expanded="true" signature="11769:12553" ph="update knowl... " />
+            <marker date="1558070030350" expanded="true" signature="12654:13387" ph="update knowl... " />
+            <marker date="1558070030350" expanded="true" signature="13549:14576" ph="SELECT id,`n... " />
+            <marker date="1558070030350" expanded="true" signature="13621:13682" ph="select name dialog_workflow" />
+            <marker date="1558070030350" expanded="true" signature="13707:13774" ph="select name dialog_workflow" />
+            <marker date="1558070030350" expanded="true" signature="14716:15221" ph="SELECT q.id knowledge_question" />
+            <marker date="1558070030350" expanded="true" signature="14807:14870" ph="select name dialog_workflow" />
+            <marker date="1558070030350" expanded="true" signature="15581:15830" ph="select , fro... " />
+            <marker date="1558070030350" expanded="true" signature="15936:16146" ph="select , fro... " />
+            <marker date="1558070030350" expanded="true" signature="16282:16484" ph="select name,... knowledge_question" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/TOrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" column="62" lean-forward="false" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/mapper/TOrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/TOrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="48" column="51" lean-forward="false" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TOrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="62" lean-forward="false" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+          <folding>
+            <marker date="1573973228441" expanded="true" signature="2058:2116" ph="select from t_order" />
+            <marker date="1573973228441" expanded="true" signature="2058:2164" ph="select from t_order" />
+            <marker date="1573973228441" expanded="true" signature="2273:2373" ph="select from t_order" />
+            <marker date="1573973228441" expanded="true" signature="2494:2709" ph="select from t_order" />
+            <marker date="1573973228441" expanded="true" signature="2494:2718" ph="SELECT a.ope... t_order" />
+            <marker date="1573973228441" expanded="true" signature="2836:3134" ph="SELECT a.ope... t_order" />
+            <marker date="1573973228441" expanded="true" signature="3221:3281" ph="delete from " />
+            <marker date="1573973228441" expanded="true" signature="3360:3812" ph="insert into wx.t_order... " />
+            <marker date="1573973228441" expanded="true" signature="7211:8127" ph="update wx.t_... " />
+            <marker date="1573973228441" expanded="true" signature="8218:8684" ph="update wx.t_... " />
+            <marker date="1573973228441" expanded="true" signature="8228:8684" ph="update t_ord... " />
+            <marker date="1573973228441" expanded="true" signature="8775:8844" ph="update wx.t_... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/model/wx/OrderHistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#1765#1766#0" expanded="true" />
+            <element signature="e#1792#1793#0" expanded="true" />
+            <element signature="e#1832#1833#0" expanded="true" />
+            <element signature="e#1864#1865#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/service/impl/TUserinfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="28" column="51" lean-forward="false" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="51" />
+          <folding>
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TUserinfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1103">
+          <caret line="65" column="4" lean-forward="false" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
+          <folding>
+            <marker date="1573792386411" expanded="true" signature="2760:2887" ph="select from t_userinfo" />
+            <marker date="1573792386411" expanded="true" signature="3012:3149" ph="select from t_userinfo" />
+            <marker date="1573792386411" expanded="true" signature="3269:3379" ph="select from t_userinfo" />
+            <marker date="1573792386411" expanded="true" signature="3502:3608" ph="select from t_userinfo" />
+            <marker date="1573792386411" expanded="true" signature="3730:3840" ph="select from t_userinfo" />
+            <marker date="1573792386411" expanded="true" signature="3954:4445" ph="select from t_userinfo" />
+            <marker date="1573792386411" expanded="true" signature="3954:4452" ph="SELECT a.* F... t_userinfo" />
+            <marker date="1573792386411" expanded="true" signature="4576:4774" ph="SELECT FROM t_userinfo" />
+            <marker date="1573792386411" expanded="true" signature="4576:4930" ph="SELECT FROM " />
+            <marker date="1573792386411" expanded="true" signature="4704:4772" ph="SELECT id FR... t_userinfo" />
+            <marker date="1573792386411" expanded="true" signature="4789:4930" ph="SELECT FROM t_userinfo" />
+            <marker date="1573792386411" expanded="true" signature="5046:5201" ph="SELECT FROM t_userinfo" />
+            <marker date="1573792386411" expanded="true" signature="5330:5480" ph="SELECT FROM t_userinfo" />
+            <marker date="1573792386411" expanded="true" signature="5571:5634" ph="delete from " />
+            <marker date="1573792386411" expanded="true" signature="5718:6609" ph="insert into wx.t_userinfo... " />
+            <marker date="1573792386411" expanded="true" signature="11238:13345" ph="update wx.t_... " />
+            <marker date="1573792386411" expanded="true" signature="13448:13820" ph="UPDATE wx.t_... " />
+            <marker date="1573792386411" expanded="true" signature="13915:13987" ph="UPDATE wx.t_... " />
+            <marker date="1573792386411" expanded="true" signature="14083:14174" ph="UPDATE wx.t_... " />
+            <marker date="1573792386411" expanded="true" signature="14275:14433" ph="UPDATE wx.t_... " />
+            <marker date="1573792386411" expanded="true" signature="14534:14692" ph="UPDATE wx.t_... " />
+            <marker date="1573792386411" expanded="true" signature="14794:15003" ph="UPDATE wx.t_... " />
+            <marker date="1573792386411" expanded="true" signature="15105:15199" ph="UPDATE wx.t_... " />
+            <marker date="1573792386411" expanded="true" signature="15302:15413" ph="UPDATE wx.t_... " />
+            <marker date="1573792386411" expanded="true" signature="15508:15579" ph="UPDATE wx.t_... " />
+            <marker date="1573792386411" expanded="true" signature="15675:15766" ph="UPDATE wx.t_... " />
+            <marker date="1573792386411" expanded="true" signature="15874:15958" ph="UPDATE wx.t_... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/model/wx/IsAgentResp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/model/UserIsMembership.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="58" column="28" lean-forward="false" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+          <folding>
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/indexserver/web/WxController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="859">
+          <caret line="2809" column="31" lean-forward="true" selection-start-line="2809" selection-start-column="31" selection-end-line="2809" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#70141#70157#0" expanded="true" />
+            <element signature="e#72431#72447#0" expanded="true" />
+            <element signature="e#74591#74607#0" expanded="true" />
+            <element signature="e#76818#76834#0" expanded="true" />
+            <element signature="e#100724#100748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20895523" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20895523" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|index-server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20895523" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20895523" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20895523" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
